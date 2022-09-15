@@ -4,6 +4,7 @@
 ###############################################
 *.sketch
 
+
 # Avoid accidental XD or Figma upload if you convert the design file
 #######################################################
 ## Please do not remove lines 11 and 12 - thanks! 🙂 ##
@@ -36,3 +37,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.prettierrc.json
